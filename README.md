@@ -42,8 +42,3 @@ make
    - Click "Tools" → "AI Translator"
    - Configure API keys in "Tools" → "AI Settings"
    - Click "Send to AI" to translate the decoded text
-
-## Security
-- API keys are stored with 0600 permissions
-- Configuration directory uses 0700 permissions
-- Data is only sent to AI providers when using translation features
